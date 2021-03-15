@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615225441 source:/home/student/Programacao/ex3/main.c
+	<stdio.h>
+	<stdlib.h>
+
